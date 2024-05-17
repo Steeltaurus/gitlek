@@ -1,5 +1,10 @@
 # gitlek
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ## This is heading 2
 
 <h2>This is also heading 2 </h2>
