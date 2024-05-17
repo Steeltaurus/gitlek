@@ -1,6 +1,10 @@
 # gitlek
 
+
 ###### Heading 6
+
+#### Heading 4
+
 
 At the command prompt, type `nano`.
 
