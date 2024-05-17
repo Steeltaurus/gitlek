@@ -7,3 +7,7 @@
 # This is heading 1
 
 <h1>Heading 1</h1>
+
+Don't put tabs or spaces in front of your paragraphs.
+
+Keep lines left-aligned like this.
