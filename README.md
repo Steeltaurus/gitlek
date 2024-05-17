@@ -1,5 +1,7 @@
 # gitlek
 
+###### Heading 6
+
 At the command prompt, type `nano`.
 
 | Syntax      | Description |
