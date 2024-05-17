@@ -7,6 +7,8 @@ At the command prompt, type `nano`.
 | Header      | Title       |
 | Paragraph   | Text        |
 
+### Heading 3
+
 ## This is heading 2
 
 <h2>This is also heading 2 </h2>
